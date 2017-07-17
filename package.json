@@ -1,0 +1,31 @@
+{
+  "name": "numberone",
+  "version": "1.0.1",
+  "description": "1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelPersinger/one.git"
+  },
+  "keywords": [
+    "one",
+    "1",
+    "ONE",
+    "One",
+    "oNe",
+    "ONe",
+    "oNE",
+    "onE",
+    "oNe",
+    "OnE"
+  ],
+  "author": "Axel Persinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxelPersinger/one/issues"
+  },
+  "homepage": "https://github.com/AxelPersinger/one#readme"
+}
